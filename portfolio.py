@@ -74,7 +74,7 @@ if menu == "Projects":
     st.image(Image.open("visualization/demographic/age.png"), use_container_width=False)
     st.image(Image.open("visualization/demographic/gender.png"), use_container_width=False)
     # Link to GitHub
-    st.markdown("[View Full Project on GitHub](https://github.com/yourusername/project-repo)")
+    st.markdown("[View Full Project on GitHub](https://github.com/ademart90/customer_segmentation00_demographics.git)")
 
     # Subheading: Location-Based Segmentation
     st.header("Location-Based Segmentation")
