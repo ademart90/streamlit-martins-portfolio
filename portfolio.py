@@ -97,6 +97,8 @@ if menu == "Projects":
     st.image(Image.open("visualization/website-purchase/combined_segment_correlation.png"), use_container_width=False)   
     # Link to GitHub
     st.markdown("[View Full Project on GitHub](https://github.com/ademart90/customer_segmentation03_website-purchase.git)")
+    # link to streamlit dashboard
+    st.markdown("[View complete visualization and insights on streamlit]("https://dashboardpy-hnsw5g2pc3ogyqhbcrkx7t.streamlit.app/)")
     
 
     
