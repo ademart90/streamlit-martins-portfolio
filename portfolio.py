@@ -98,7 +98,7 @@ if menu == "Projects":
     # Link to GitHub
     st.markdown("[View Full Project on GitHub](https://github.com/ademart90/customer_segmentation03_website-purchase.git)")
     # link to streamlit dashboard
-    st.markdown("[View complete visualization and insights on streamlit]("https://dashboardpy-hnsw5g2pc3ogyqhbcrkx7t.streamlit.app/)")
+    st.markdown("[View complete visualization and insights on streamlit](https://dashboardpy-hnsw5g2pc3ogyqhbcrkx7t.streamlit.app/)")
     
 
     
