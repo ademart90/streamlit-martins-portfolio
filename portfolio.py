@@ -66,7 +66,8 @@ if menu == "Projects":
     st.image(Image.open("visualization/purchase/monthly_purchase.png"), use_container_width=False)
     # Link to GitHub
     st.markdown("[View Full Project on GitHub](https://github.com/ademart90/customer_segmentation01_purchasebehavior.git)")
-
+    # link to interactive dashboard
+    st.markdown("view full insight and dashboard on strimlit(https://mqxtwrmejcrfqpjevyv4qd.streamlit.app/)")
 
     # Subheading: Demographic Segmentation
     st.header("Demographic Segmentation")
