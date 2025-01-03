@@ -49,7 +49,7 @@ if menu == "Projects":
         """)
     
     # Link to GitHub
-    st.markdown("[View Full Project on GitHub](https://github.com/yourusername/project-repo)")
+    st.markdown("[View Full Project on GitHub](https://github.com/ademart90/customer_segmentation03_website-purchase.git)")
 
 
 
