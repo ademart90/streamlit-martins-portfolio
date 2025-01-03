@@ -65,7 +65,7 @@ if menu == "Projects":
     st.image(Image.open("visualization/purchase/shoppers.png"), use_container_width=False)
     st.image(Image.open("visualization/purchase/monthly_purchase.png"), use_container_width=False)
     # Link to GitHub
-    st.markdown("[View Full Project on GitHub](https://github.com/yourusername/project-repo)")
+    st.markdown("[View Full Project on GitHub](https://github.com/ademart90/customer_segmentation01_purchasebehavior.git)")
 
 
     # Subheading: Demographic Segmentation
