@@ -82,7 +82,7 @@ if menu == "Projects":
     st.image(Image.open("visualization/location/purchase_by_state.png"), use_container_width=False)
     st.image(Image.open("visualization/location/state_metrics_heatmap.png"), use_container_width=False)   
     # GitHub Link 
-    st.markdown("[View Complete Location-Based Analysis on GitHub](https://github.com/yourusername/location-segmentation)")
+    st.markdown("[View Complete Location-Based Analysis on GitHub](https://github.com/ademart90/customer_segmentation04_location.git)")
 
     
     # Subheading: Combined Website and Purchase Segmentation
