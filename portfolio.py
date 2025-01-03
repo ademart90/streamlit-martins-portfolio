@@ -95,7 +95,7 @@ if menu == "Projects":
     st.image(Image.open("visualization/website-purchase/bubblechart.png"), use_container_width=False)
     st.image(Image.open("visualization/website-purchase/combined_segment_correlation.png"), use_container_width=False)   
     # Link to GitHub
-    st.markdown("[View Full Project on GitHub](https://github.com/yourusername/project-repo)")
+    st.markdown("[View Full Project on GitHub](https://github.com/ademart90/customer_segmentation03_website-purchase.git)")
     
 
     
