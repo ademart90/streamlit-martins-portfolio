@@ -51,7 +51,7 @@ if menu == "Projects":
         """)
     
     # Link to GitHub
-    st.markdown("[View Full Project on GitHub](https://github.com/yourusername/project-repo)")
+    st.markdown("[View Full Project on GitHub](https://github.com/ademart90/customer_segmentation03_website-purchase.git)")
 
 
 
@@ -67,8 +67,9 @@ if menu == "Projects":
     st.image(Image.open("visualization/purchase/shoppers.png"), use_container_width=False)
     st.image(Image.open("visualization/purchase/monthly_purchase.png"), use_container_width=False)
     # Link to GitHub
-    st.markdown("[View Full Project on GitHub](https://github.com/yourusername/project-repo)")
-
+    st.markdown("[View Full Project on GitHub](https://github.com/ademart90/customer_segmentation01_purchasebehavior.git)")
+    # link to interactive dashboard
+    st.markdown("[view full insight and dashboard on strimlit](https://mqxtwrmejcrfqpjevyv4qd.streamlit.app/)")
 
     # Subheading: Demographic Segmentation
     st.header("Demographic Segmentation")
@@ -84,7 +85,7 @@ if menu == "Projects":
     st.image(Image.open("visualization/location/purchase_by_state.png"), use_container_width=False)
     st.image(Image.open("visualization/location/state_metrics_heatmap.png"), use_container_width=False)   
     # GitHub Link 
-    st.markdown("[View Complete Location-Based Analysis on GitHub](https://github.com/yourusername/location-segmentation)")
+    st.markdown("[View Complete Location-Based Analysis on GitHub](https://github.com/ademart90/customer_segmentation04_location.git)")
 
     
     # Subheading: Combined Website and Purchase Segmentation
@@ -97,7 +98,9 @@ if menu == "Projects":
     st.image(Image.open("visualization/website-purchase/bubblechart.png"), use_container_width=False)
     st.image(Image.open("visualization/website-purchase/combined_segment_correlation.png"), use_container_width=False)   
     # Link to GitHub
-    st.markdown("[View Full Project on GitHub](https://github.com/yourusername/project-repo)")
+    st.markdown("[View Full Project on GitHub](https://github.com/ademart90/customer_segmentation03_website-purchase.git)")
+    # link to streamlit dashboard
+    st.markdown("[View complete visualization and insights on streamlit](https://dashboardpy-hnsw5g2pc3ogyqhbcrkx7t.streamlit.app/)")
     
 
     
